@@ -1,0 +1,6 @@
+
+*.pyc
+
+*.sqlite3
+
+ll_env/bin/activate
